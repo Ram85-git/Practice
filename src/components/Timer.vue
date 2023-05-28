@@ -6,8 +6,10 @@
 
       <Control title="Start" :control="start"/>
      <Control title="Stop" :control="stop"/>
+
      
 </div>
+<p>Watch</p>
 </template>
 
 
