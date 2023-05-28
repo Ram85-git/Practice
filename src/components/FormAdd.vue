@@ -7,6 +7,7 @@
             <input v-on:keypress="submit" type="text" v-model="text"/>
         </form>
     </div>
+    <!-- <p></p> -->
 
 </template>
 
